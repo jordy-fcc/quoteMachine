@@ -1,0 +1,127 @@
+/* FONT FACES */
+
+@font-face {
+  font-family: Hanken-Grotesk-Black;
+  src: url(fonts/HankenGrotesk-Black.ttf);
+}
+
+@font-face {
+  font-family: Hanken-Grotesk-Black-Italic;
+  src: url(fonts/HankenGrotesk-BlackItalic.ttf);
+}
+
+@font-face {
+  font-family: Hanken-Grotesk-Bold;
+  src: url(fonts/HankenGrotesk-Bold.ttf);
+}
+
+@font-face {
+  font-family: Hanken-Grotesk-Bold-Italic;
+  src: url(fonts/HankenGrotesk-BoldItalic.ttf);
+}
+
+@font-face {
+  font-family: Hanken-Grotesk-Extra-Bold;
+  src: url(fonts/HankenGrotesk-ExtraBold.ttf);
+}
+
+@font-face {
+  font-family: Hanken-Grotesk-Extra-Bold-Italic;
+  src: url(fonts/HankenGrotesk-ExtraBoldItalic.ttf);
+}
+
+@font-face {
+  font-family: Hanken-Grotesk-Extra-Light;
+  src: url(fonts/HankenGrotesk-ExtraLight.ttf);
+}
+
+@font-face {
+  font-family: Hanken-Grotesk-Extra-Light-Italic;
+  src: url(fonts/HankenGrotesk-ExtraLightItalic.ttf);
+}
+
+@font-face {
+  font-family: Hanken-Grotesk-Italic;
+  src: url(fonts/HankenGrotesk-Italic.ttf);
+}
+
+@font-face {
+  font-family: Hanken-Grotesk-Light;
+  src: url(fonts/HankenGrotesk-Light.ttf);
+}
+
+@font-face {
+  font-family: Hanken-Grotesk-Light-Italic;
+  src: url(fonts/HankenGrotesk-LightItalic.ttf);
+}
+
+@font-face {
+  font-family: Hanken-Grotesk-Medium;
+  src: url(fonts/HankenGrotesk-Medium.ttf);
+}
+
+@font-face {
+  font-family: Hanken-Grotesk-Medium-Italic;
+  src: url(fonts/HankenGrotesk-MediumItalic.ttf);
+}
+
+@font-face {
+  font-family: Hanken-Grotesk-Regular;
+  src: url(fonts/HankenGrotesk-Regular.ttf);
+}
+
+@font-face {
+  font-family: Hanken-Grotesk-SemiBold;
+  src: url(fonts/HankenGrotesk-SemiBold.ttf);
+}
+
+@font-face {
+  font-family: Hanken-Grotesk-SemiBold-Italic;
+  src: url(fonts/HankenGrotesk-SemiBoldItalic.ttf);
+}
+
+@font-face {
+  font-family: Hanken-Grotesk-Thin;
+  src: url(fonts/HankenGrotesk-Thin.ttf);
+}
+
+@font-face {
+  font-family: Hanken-Grotesk-Thin-Italic;
+  src: url(fonts/HankenGrotesk-ThinItalic.ttf);
+}
+
+/* FONT AND COLOR VARS */
+
+:root {
+  /* Font Variables */
+  --black: Hanken-Grotesk-Black;
+  --black-italic: Hanken-Grotesk-Black-Italic;
+  --bold: Hanken-Grotesk-Bold;
+  --bold-italic: Hanken-Grotesk-Bold-Italic;
+  --extrabold: Hanken-Grotesk-Extra-Bold;
+  --extrabold-italic: Hanken-Grotesk-Extra-Bold-Italic;
+  --extralight: Hanken-Grotesk-Extra-Light;
+  --extralight-italic: Hanken-Grotesk-Extra-Light-Italic;
+  --italic: Hanken-Grotesk-Italic;
+  --light: Hanken-Grotesk-Light;
+  --light-italic: Hanken-Grotesk-Light-Italic;
+  --medium: Hanken-Grotesk-Medium;
+  --medium-italic: Hanken-Grotesk-Medium-Italic;
+  --regular: Hanken-Grotesk-Regular;
+  --semibold: Hanken-Grotesk-SemiBold;
+  --semibold-italic: Hanken-Grotesk-SemiBold-Italic;
+  --thin: Hanken-Grotesk-Thin;
+  --thin-italic: Hanken-Grotesk-Thin-Italic;
+  /*Color Vars*/
+  --zero: #023963;
+  --one: #035ea3;
+  --two: #0474cc;
+  --three: #0583e3;
+  --four: #116aa6;
+  --five: #0a4166;
+  --six: #1584cf;
+  --seven: #5eb2f2;
+  --eight: #529ad1;
+  --nine: #34678f;
+  --ten: #4488bd;
+}

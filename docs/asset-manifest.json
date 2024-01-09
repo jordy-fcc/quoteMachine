@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "./static/css/main.b39bbd69.css",
+    "main.js": "./static/js/main.8383bf23.js",
+    "static/media/HankenGrotesk-ExtraLightItalic.ttf": "./static/media/HankenGrotesk-ExtraLightItalic.2ca19391d954713a83b5.ttf",
+    "static/media/HankenGrotesk-LightItalic.ttf": "./static/media/HankenGrotesk-LightItalic.a76fab90bd1e19beaffd.ttf",
+    "static/media/HankenGrotesk-MediumItalic.ttf": "./static/media/HankenGrotesk-MediumItalic.837880e4e57951e34dc4.ttf",
+    "static/media/HankenGrotesk-ExtraBoldItalic.ttf": "./static/media/HankenGrotesk-ExtraBoldItalic.0025bb1d88feb1217203.ttf",
+    "static/media/HankenGrotesk-SemiBoldItalic.ttf": "./static/media/HankenGrotesk-SemiBoldItalic.21e3cd1b52e419c36c2c.ttf",
+    "static/media/HankenGrotesk-BoldItalic.ttf": "./static/media/HankenGrotesk-BoldItalic.0f4c38c38f453278399e.ttf",
+    "static/media/HankenGrotesk-BlackItalic.ttf": "./static/media/HankenGrotesk-BlackItalic.9e9c5ce5adc2460e457a.ttf",
+    "static/media/HankenGrotesk-ThinItalic.ttf": "./static/media/HankenGrotesk-ThinItalic.8957937289e0e633d004.ttf",
+    "static/media/HankenGrotesk-Italic.ttf": "./static/media/HankenGrotesk-Italic.b2f293c65b85d97e45e7.ttf",
+    "static/media/HankenGrotesk-ExtraLight.ttf": "./static/media/HankenGrotesk-ExtraLight.7eb9f7d825f7fe66d7d6.ttf",
+    "static/media/HankenGrotesk-Medium.ttf": "./static/media/HankenGrotesk-Medium.234bf52fb6d6a56a561d.ttf",
+    "static/media/HankenGrotesk-Regular.ttf": "./static/media/HankenGrotesk-Regular.fac3f805a7674c8cb703.ttf",
+    "static/media/HankenGrotesk-Light.ttf": "./static/media/HankenGrotesk-Light.a52120e75a8de73199e6.ttf",
+    "static/media/HankenGrotesk-SemiBold.ttf": "./static/media/HankenGrotesk-SemiBold.8ebe1564ed2090134410.ttf",
+    "static/media/HankenGrotesk-ExtraBold.ttf": "./static/media/HankenGrotesk-ExtraBold.97e81bf3b3e87ffcef41.ttf",
+    "static/media/HankenGrotesk-Bold.ttf": "./static/media/HankenGrotesk-Bold.1161826a8f452bc76b77.ttf",
+    "static/media/HankenGrotesk-Black.ttf": "./static/media/HankenGrotesk-Black.d23f4e71d62652f11a7a.ttf",
+    "static/media/HankenGrotesk-Thin.ttf": "./static/media/HankenGrotesk-Thin.134c734741c8634fd887.ttf",
+    "index.html": "./index.html",
+    "main.b39bbd69.css.map": "./static/css/main.b39bbd69.css.map",
+    "main.8383bf23.js.map": "./static/js/main.8383bf23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b39bbd69.css",
+    "static/js/main.8383bf23.js"
+  ]
+}
